@@ -1,0 +1,32 @@
+#Header{
+    border: 60Px solid;
+    width: 400Px solid;
+    color: rgb(255, 154, 81);
+    text-size-adjust:  60%;
+    text-align: center;
+    text-decoration-color: black;
+}
+
+#Sentence{
+    text-align: center;
+    text-size-adjust: 40px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#photo1{
+    text-align: center;
+}
+
+#subPhoto{
+text-align: center;
+}
+
+#sentence2{
+    text-align: center;
+    font-size: xx-large;
+}
+
+#sentence3{
+    text-align: center;
+}
